@@ -26,7 +26,7 @@ The associated image dataset is archived on Zenodo:
 ### 1. Clone this repository
 
 ```bash
-git clone https://github.com/[USERNAME]/scorpion-few-shot.git
+git clone https://github.com/yavuz-unal/scorpion-few-shot.git
 cd scorpion-few-shot
 ```
 
