@@ -14,7 +14,7 @@ authors:
 year: 2026
 version: "1.0"
 license: "MIT"
-repository-code: "https://github.com/[USERNAME]/scorpion-few-shot"
+repository-code: "https://github.com/yavuz-unal/scorpion-few-shot"
 keywords:
   - few-shot learning
   - sexual dimorphism
