@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite both the paper and the dataset."
+type: software
+title: "Few-Shot Learning for Sex Classification in Venomous Scorpions"
+authors:
+  - family-names: "Ünal"
+    given-names: "Yavuz"
+    affiliation: "Department of Computer Engineering, Sinop University, Turkey"
+    orcid: "https://orcid.org/0000-0002-3007-679X"
+  - family-names: "Koç"
+    given-names: "Halil"
+    affiliation: "Department of Biology, Sinop University, Turkey"
+    orcid: "https://orcid.org/0000-0003-0429-2824"
+year: 2026
+version: "1.0"
+license: "MIT"
+repository-code: "https://github.com/[USERNAME]/scorpion-few-shot"
+keywords:
+  - few-shot learning
+  - sexual dimorphism
+  - scorpion
+  - Aegeaeobuthus gibbosus
+  - prototypical networks
+  - image classification
+references:
+  - type: dataset
+    title: "Aegeaeobuthus gibbosus Image Dataset for Few-Shot Sex Classification"
+    authors:
+      - family-names: "Koç"
+        given-names: "Halil"
+      - family-names: "Ünal"
+        given-names: "Yavuz"
+    year: 2026
+    doi: "10.5281/zenodo.20796510"
